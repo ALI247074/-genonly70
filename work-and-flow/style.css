@@ -655,6 +655,11 @@ overflow-y: auto;
        /* لو بدك ترفعه أكتر، زيدها */
 }
 
+#nextToSummaryBtn{
+
+  margin-top: 22px;
+}
+
 /* زر Go to the color page */
 /* زر Go to the color page */
 a.btn[href*="Color-Page"] {
